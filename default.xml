@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>                                                                     
+<manifest>
+    <remote name="iot_update" fetch="https://github.com/LittlelyBear/iot_update.git" />
+    <project path="src/iot_update" name="iot_update/swiot_update" remote="build" revision="master" >
+    </project>
+</manifest>
+
